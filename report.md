@@ -15,9 +15,6 @@ We analysed two different approaches: the segmentation method and the dense opti
 ## Data & Test Result
 The data we use for this project is live video feed from a webcam. We divided the data into 3 test cases based the interference of other objects with the hand:
 - Test case 1: Video with only a hand and no other objects.
+![only-hand test case](https://media.giphy.com/media/9dG8rZcrGNrAfGNepz/giphy.gif)
 - Test case 2: Video with a hand and a face, to test if skin color will affect the detection
 - Test case 3: Video with a hand and another moving object in the frame.
-
-| Test Case # | Description                                  | Success Rate | Fail Rate | Snapshot                      |
-| ----------- | -------------------------------------------- | ------------ | --------- |
-| 1           | Video with only a hand and no other objects. | 95%          | 5%        | ![](public/images/donut1.png) |
