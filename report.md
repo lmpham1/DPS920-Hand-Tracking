@@ -17,6 +17,7 @@ We, Le Minh Pham & Chike Browne, declare that the attached assignment is our own
 - Moving to the left
 - Moving upward
 - Moving downward
+
 Hand movement tracking has many potential, especially in the fields of Internet of Things and Virtual Reality.
 
 ## Method
